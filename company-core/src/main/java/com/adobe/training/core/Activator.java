@@ -31,6 +31,6 @@ public class Activator implements BundleActivator {
         System.out.println("Bharath stopped here");
         log.info("testing bundle");
     }
-
+    //Pull from Git repo
 }
 
