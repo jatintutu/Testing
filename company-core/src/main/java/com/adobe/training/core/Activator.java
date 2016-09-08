@@ -20,7 +20,7 @@ public class Activator implements BundleActivator {
         System.out.println("Bharath here");
         log.info("testing bundle");
         
-        
+      // This is my commit after my change is done  
     }
 
     /*
